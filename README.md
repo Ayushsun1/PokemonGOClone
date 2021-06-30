@@ -1,2 +1,2 @@
 # PokemonGOClone
-##To run this app hit run
+Designed to run on iOS 12
